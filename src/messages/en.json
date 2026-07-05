@@ -275,7 +275,7 @@
       { "name": "Other (specify)", "sub": "Other", "icon": "more_horiz", "color": "#8b919e" }
     ],
     "companySizes": ["1-10 people", "11-50 people", "51-200 people", "201-500 people", "501-1000 people", "1000+ people"],
-    "regions": ["Mainland China", "Hong Kong / Macau / Taiwan", "Japan", "Southeast Asia", "North America", "Europe", "Other"],
+    "regions": ["Australia", "Hong Kong / Macau / Taiwan", "Japan", "Southeast Asia", "North America", "Europe", "Other"],
     "painPoints": [
       "Data scattered across spreadsheets/chat/email, hard to unify",
       "Legacy internal systems, difficult to maintain",
@@ -307,7 +307,7 @@
       {"title": "III. Intellectual Property", "content": "The intellectual property rights of all content on this website, including text, graphics, logos, interface design, and code, belong to Dahu. No one may reproduce, use, or distribute them without written permission."},
       {"title": "IV. Disclaimer", "content": "The information on this website is for reference only. To the extent permitted by law, we shall not be liable for any indirect, incidental, or consequential damages arising from the use or inability to use this website and its services."},
       {"title": "V. Limitation of Liability", "content": "To the maximum extent permitted by applicable law, our liability for this website and services shall be limited to the fees you actually paid for the relevant services. For free content and services, we assume no liability for damages."},
-      {"title": "VI. Governing Law", "content": "The establishment, interpretation, and dispute resolution of these terms shall be governed by the laws of the People's Republic of China. Any disputes shall be resolved through friendly negotiation; if negotiation fails, the dispute shall be submitted to the competent people's court in our jurisdiction."},
+      {"title": "VI. Governing Law", "content": "The establishment, interpretation, and dispute resolution of these terms shall be governed by the laws of New Zealand. Any disputes shall be resolved through friendly negotiation; if negotiation fails, the dispute shall be submitted to the competent people's court in our jurisdiction."},
       {"title": "VII. Contact Information", "content": "If you have any questions about these terms, please contact: sales@dahu.ai"},
       {"title": "VIII. Terms Updates", "content": "We reserve the right to revise these terms at any time. Updated terms will take effect immediately upon posting on this page. Please check periodically."}
     ]
