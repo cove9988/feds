@@ -1,0 +1,321 @@
+{
+  "site": {
+    "title": "Dahu · Enterprise AI Deployment Services",
+    "description": "Dahu deploys FDEs on-site to embed AI into your business workflows—precise diagnosis, closed-loop optimization, dramatically reducing costs and giving you a competitive edge. Enterprise AI OS, Agent Collaboration Platform, system refactoring, and build from 0 to 1. Start with a free AI diagnosis.",
+    "brand": "Dahu",
+    "keywords": "Dahu,AI Native,Enterprise AI OS,Agent Collaboration Platform,FDE,Forward Deployed Engineer,AI diagnosis,AI transformation,LLM applications,AI Agent,system refactoring,AI workflows"
+  },
+  "nav": {
+    "home": "Home",
+    "backToHome": "Back to Home",
+    "diagnosis": "Free AI Diagnosis",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "coreValue": "Core Values",
+    "aiOs": "AI OS",
+    "services": "Services",
+    "cases": "Cases",
+    "team": "Team",
+    "process": "Process"
+  },
+  "footer": {
+    "description": "Enterprise AI deployment services. We deploy FDEs on-site to embed AI into your business workflows, dramatically reducing costs and giving you a competitive edge.",
+    "products": "Products & Services",
+    "aiOs": "Enterprise AI OS",
+    "servicesLink": "Services",
+    "industries": "Industries",
+    "casesLink": "Case Studies",
+    "fde": "FDE Process",
+    "company": "Company",
+    "diagnosisLink": "Free AI Diagnosis",
+    "contact": "Contact Us",
+    "joinUs": "Join Us",
+    "legal": "Legal & Privacy",
+    "privacyLink": "Privacy Policy",
+    "termsLink": "Terms of Service",
+    "offices": "Offices",
+    "cities": ["Auckland NZ", "Sydney AU", "Hong Kong CN", "Tokyo JP"],
+    "copyright": "© 2026 Dahu · AI-Native Precision · All Rights Reserved",
+    "icp": "dahu-2026"
+  },
+  "home": {
+    "hero": {
+      "title": "Enterprise AI Deployment Services",
+      "subtitle": "Free AI Diagnosis",
+      "badge": "Enterprise AI Deployment Services",
+      "heading": "Make AI <highlight>Grow Into</highlight> Your Business Processes",
+      "description": "Go beyond generic chatbots. We deploy FDEs on-site to build deeply integrated AI-native systems—precision diagnosis, closed-loop optimization, dramatically reducing costs and amplifying human potential, making AI your core competitive asset.",
+      "cta": "See How We Work"
+    },
+    "stats": {
+      "costReduction": "Tech Cost Reduction",
+      "costDesc": "AI Native replaces in-house teams",
+      "softwareSavings": "Software Cost Savings",
+      "softwareDesc": "Custom systems replace SaaS subscriptions",
+      "timeReduction": "Manual Reporting Time Reduced",
+      "timeDesc": "Internal systems automated",
+      "decisionSpeed": "Decision Speed Improvement",
+      "decisionDesc": "From monthly reports to real-time dashboards",
+      "fastestLaunchValue": "2 days",
+      "fastestLaunchLabel": "Fastest Launch",
+      "fastestLaunchDesc": "AI-accelerated delivery efficiency",
+      "fastestResponseValue": "20 min",
+      "fastestResponseLabel": "Fastest Response",
+      "fastestResponseDesc": "Year-round iterative support"
+    },
+    "efficiency": {
+      "responseTime": "20 min",
+      "responseLabel": "Fastest response to needs",
+      "supportLabel": "Year-round iterative support",
+      "point1": "No surface-level integration. Deeply couple AI with your core business logic for true productivity leaps.",
+      "point2": "Multi-layer validation and RAG technology ensure every conclusion is evidence-based, meeting industrial-grade stability.",
+      "point3": "Built-in self-optimization. The system continuously learns domain knowledge as your business runs, getting smarter over time."
+    },
+    "whyNative": {
+      "title": "Why Native AI Architecture?",
+      "subtitle": "Traditional 'patch-on' AI can't solve structural efficiency problems. Only business flows redesigned from the ground up can fully unleash machine potential.",
+      "tag": "Rebuild, Don't Patch",
+      "description": "We go deep into every business touchpoint, rewire data flows, and build next-gen business loops designed for AI-native thinking.",
+      "items": [
+        "Scattered spreadsheets",
+        "WeChat group chats",
+        "AI restructured",
+        "Real-time dashboards",
+        "Agent collaboration",
+        "Actionable data",
+        "Automated workflows",
+        "Millisecond response"
+      ],
+      "complianceTitle": "Private & Compliant",
+      "globalEdge": "Global edge deployment ensures AI logic executes closest to your users, with the fluidity of a local app.",
+      "compliance": "Private deployment and data masking keep core IP assets within your borders, fully controlled."
+    },
+    "product": {
+      "title": "Enterprise AI Operating System",
+      "subtitle": "A foundation for your entire company to collaborate with AI",
+      "description": "Agent Collaboration Platform — privately deployable, highly customizable. Offload repetitive work to agents, giving every key role dedicated AI augmentation while saving significant labor costs.",
+      "features": {
+        "privateDeploy": "Private Deployment",
+        "privateDeployDesc": "Data and processes fully controlled within your enterprise.",
+        "seamlessIntegration": "Seamless Integration",
+        "seamlessIntegrationDesc": "Weave AI into your existing workflows instead of starting from scratch.",
+        "aiCollaboration": "Company-wide AI Collaboration",
+        "aiCollaborationDesc": "Not AI for a few—every team member collaborates with AI.",
+        "scalable": "Extensible Architecture",
+        "scalableDesc": "Continuously build custom agents as your business grows."
+      },
+      "cta": "See What It Can Do For You",
+      "agents": {
+        "title": "Agents · AI Collaboration",
+        "subtitle": "Company-wide AI Collaboration",
+        "osTitle": "Dahu · Enterprise AI OS",
+        "online": "Online",
+        "statusRunning": "Running",
+        "statusStandby": "Standby",
+        "salesInquiry": "Sales Inquiry Agent",
+        "contractQuote": "Contract & Quotation Agent",
+        "knowledgeBase": "Knowledge Base Agent",
+        "approvalFlow": "Approval Flow Agent"
+      }
+    },
+    "services": {
+      "title": "What We Can Do For You",
+      "subtitle": "From upgrading legacy systems to building your AI OS—meet you where you are.",
+      "legacyUpgrade": {
+        "title": "Legacy System Modernization",
+        "description": "System aging, original team gone? We take over and refactor without disrupting operations.",
+        "points": [
+          "Assess current state, plan optimal migration path",
+          "Seamless switchover, zero business disruption",
+          "Refactored system is AI self-maintaining and evolves continuously"
+        ]
+      },
+      "newSystem": {
+        "title": "Build from Zero",
+        "description": "Starting from nothing? We deliver an AI-ready, future-proof system from the first line of code.",
+        "points": [
+          "Full engagement from requirements to architecture",
+          "Full-stack delivery covering frontend, backend, and launch",
+          "AI self-evolving capability built in from day one"
+        ]
+      },
+      "fdeConsulting": {
+        "title": "FDE Consulting · AI Roadmap",
+        "description": "Know AI is powerful but don't know where to start? One week deep diagnosis, a complete upgrade roadmap.",
+        "points": [
+          "Deep dive into your business processes and systems",
+          "Deliver AI upgrade and product roadmap",
+          "Implement yourself or let us handle it"
+        ]
+      },
+      "agentPlatform": {
+        "title": "Agent Collaboration Platform",
+        "description": "A privately deployable, highly customizable agent collaboration platform for enterprises with existing R&D teams.",
+        "points": [
+          "Private deployment, fully controlled workflows"
+        ]
+      }
+    },
+    "entryPoints": {
+      "title": "3 Most Common Entry Points, Results from Day One",
+      "cards": [
+        { "title": "Digital Storefront Upgrade", "description": "Complete rebuild of your online presence, inquiry pipeline, and conversion — making clients trust you at first sight.", "icon": "storefront", "iconBg": "#62aef01f", "iconColor": "#62aef0", "tags": ["Website/Multilingual Redesign", "Cross-border Shop & Payment", "SEO & Inquiry Pipeline", "Landing Pages/Mini-apps"] },
+        { "title": "Internal Systems & Data Integration", "description": "From scattered spreadsheets and group chats to usable, visual, decision-ready business systems.", "icon": "dashboard", "iconBg": "#2a9d991f", "iconColor": "#2a9d99", "tags": ["Light ERP/Finance/Approval", "Break Data Silos", "Real-time Dashboards", "Legacy System Refactor"] },
+        { "title": "AI Workflow Implementation", "description": "Embed AI into daily operations — eliminate repetitive work, give every key role dedicated AI support.", "icon": "smart_toy", "iconBg": "#d6b6f61f", "iconColor": "#d6b6f6", "tags": ["AI Chatbot/Knowledge Base", "Batch Contract/Quote Generation", "AI Sales Assistant", "Approval Flow Automation"] }
+      ]
+    },
+    "coreValues": {
+      "title": "Core Values",
+      "cards": [
+        { "title": "Native Intelligence", "icon": "psychology", "description": "No surface-level integration. Deeply couple AI with your core business logic for true productivity leaps." },
+        { "title": "Precision & Reliability", "icon": "verified", "description": "Multi-layer validation and RAG technology ensure every conclusion is evidence-based, meeting industrial-grade stability." },
+        { "title": "Closed-Loop Evolution", "icon": "hub", "description": "Built-in self-optimization. The system continuously learns domain knowledge as your business runs, getting smarter over time." }
+      ]
+    },
+    "industries": {
+      "title": "Industries We Serve",
+      "subtitle": "From insurance, funds, and materials factories to trading platforms and law firms — different industries, same AI methodology",
+      "items": [
+        { "name": "Insurance", "icon": "shield" },
+        { "name": "Compliant Funds", "icon": "account_balance" },
+        { "name": "Materials & Chemicals", "icon": "factory" },
+        { "name": "Quant Trading", "icon": "monitoring" },
+        { "name": "Law Firms", "icon": "gavel" },
+        { "name": "Healthcare", "icon": "medical_services" },
+        { "name": "Bank and Finance Services", "icon": "account_balance" },
+        { "name": "Professional Services", "icon": "handshake" }
+      ]
+    },
+    "cases": {
+      "title": "Delivery Cases",
+      "subtitle": "From websites to internal systems to AI workflows — running in real businesses",
+      "scrollHint": "← Scroll left/right for more →",
+      "items": [
+        { "badge": "PRODUCT", "title": "InsureGuard", "description": "Insurance brand website with policy lookup, claims portal, and AI quote engine.", "url": "https://insureguard.example.com", "mockupBg": "from-[#0a1628] to-[#1a2a4a]", "mockupContent": { "type": "brand", "sub": "INSURANCE · PROTECTION", "brand": "InsureGuard", "accent": "Protect", "accentColor": "#62aef0", "buttons": ["Get a Quote", "File a Claim"] } },
+        { "badge": "SERVICE", "title": "Dahu Advisory", "description": "Multilingual corporate secretarial services with built-in risk, accounting systems.", "url": "https://6amadvise.com/zh", "mockupBg": "from-[#0c1322] to-[#13203a]", "mockupContent": { "type": "saas", "title": "DAHU ADVISORY", "langs": ["EN", "CN", "TC"], "heading": "Multilingual Secretarial Services", "sub": "Risk · Accounting · Compliance", "accentColor": "#62aef0", "buttons": ["Book Now", "Services"] } },
+        { "badge": "PRODUCT", "title": "Quant Trading Platform", "description": "Data ingestion, backtesting, live trading, strategy iteration.", "url": "mailto:sales@dahu.ai?subject=I want to learn about internal cases", "mockupContent": { "type": "chart", "bars": [70, 90, 55, 75] } },
+        { "badge": "SERVICE", "title": "AI Consulting", "description": "Hourly AI strategy consulting — workflow audit, opportunity mapping, roadmap planning.", "url": "mailto:sales@dahu.ai?subject=AI Consulting inquiry", "mockupBg": "from-[#0f0c29] to-[#302b63]", "mockupContent": { "type": "chat", "messages": 4 } },
+        { "badge": "SERVICE", "title": "Strategy Advisory", "description": "Executive AI advisory sessions — capability assessment, vendor selection, governance.", "url": "mailto:sales@dahu.ai?subject=Strategy Advisory inquiry", "mockupBg": "from-[#1a1a2e] to-[#16213e]", "mockupContent": { "type": "deck", "slides": 3 } }
+      ]
+    },
+    "team": {
+      "label": "TEAM",
+      "title": "Battle-Hardened Super Individuals",
+      "description": "We are not an outsourcing platform or a people-stacked corporation. Our core team blends three rare backgrounds: veteran enterprise service experts, AI-product-building CTOs, and AI engineers from top tech companies. Business × Product × Engineering — missing any one is why most AI projects fail.",
+      "tags": ["Fudan University", "Rice University", "Amazon AWS", "Tencent Cloud", "Alibaba"],
+      "members": [
+        { "name": "Senior Enterprise Service Expert", "role": "Industry Veteran · Business Architect", "description": "Over a decade in enterprise services, deeply serving manufacturing, retail, and finance clients. Expert at identifying real pain points in chaotic business environments and designing systems that solve them.", "icon": "business_center", "gradient": "from-[#62aef0] to-[#62aef099]", "tags": ["Enterprise Service", "System Design", "Large-scale Platforms", "Digital Transformation"] },
+        { "name": "AI Technical Lead", "role": "Silicon Valley · AI Product Architect", "description": "A hybrid AI expert from Silicon Valley — former AWS engineer and Tencent Cloud PM, spanning engineering and product. MS in Data Science from Rice University. Deep expertise in LLM applications and AI agent development — not just using AI, but embedding it into real business for lasting value.", "icon": "smart_toy", "gradient": "from-[#d6b6f6] to-[#d6b6f699]", "tags": ["Silicon Valley", "LLM Applications", "AI Agent", "AWS · Tencent Cloud"] },
+        { "name": "FDE Specialist", "role": "Solution Architect · Full-stack Delivery", "description": "Master's from Fudan University, from a top Chinese tech company's AI infrastructure team. Experience in large-scale model training, inference optimization, and Agentic system engineering — not a toy demo, but a real product running stably in production.", "icon": "terminal", "gradient": "from-[#1aae39] to-[#1aae3999]", "tags": ["FDE On-site", "Solution Architecture", "AI Engineering", "Full-stack"] },
+        { "name": "AI Security Advisor", "role": "Alibaba Security Expert · Startup Founder", "description": "Security expert from Alibaba and founder of a security startup. Deep expertise in AI agent security and enterprise security practices. We put 'security' and 'usability' on equal footing: from data compliance and permission boundaries to controllable Agent behavior, every AI product is vetted through a security lens before deployment, giving you peace of mind to embrace AI.", "icon": "shield", "gradient": "from-[#dd5b00] to-[#dd5b0099]", "tags": ["Alibaba Security", "Security Startup", "AI Agent Security", "Data Compliance"] }
+      ]
+    },
+    "process": {
+      "label": "FDE · Forward Deployed Engineer",
+      "title": "The People Who Make AI Actually Work for You",
+      "description": "Bosses know the pain points but not how AI helps; engineers have the skills but can't translate to business value. This gap is why FDEs exist — understanding both business logic and AI systems, bridging the two for real output.",
+      "summary": "Diagnose → Break Down → Deliver → Iterate",
+      "steps": [
+        { "number": "01", "title": "Diagnose", "icon": "stethoscope", "description": "Identify the most impactful technical problems and data status." },
+        { "number": "02", "title": "Break Down", "icon": "account_tree", "description": "Prioritize: must-do / can-wait / skip — protect your budget." },
+        { "number": "03", "title": "Deliver", "icon": "deployed_code", "description": "AI-accelerated delivery of maintainable, scalable versions." },
+        { "number": "04", "title": "Iterate", "icon": "autorenew", "description": "Continuous upgrades based on real usage feedback." }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Start Your AI-Native Evolution?",
+      "description": "Fill out a 2-4 minute free diagnosis and we'll provide a custom AI implementation blueprint.",
+      "diagnosis": "Start Free Diagnosis",
+      "contact": "Contact Us"
+    }
+  },
+  "diagnosis": {
+    "title": "Free AI Diagnosis",
+    "heading": "Tell us about your business, see where AI fits",
+    "subheading": "Takes 2–4 minutes · Identify AI transformation entry points",
+    "backToHome": "Back to Home",
+    "stepLabels": ["Industry", "Size & Region", "Pain Points", "Contact"],
+    "step0Title": "Which industry does your company belong to?",
+    "step0Desc": "We'll customize the next questions based on your answer",
+    "step1Title": "Company Size & Region",
+    "step1Desc": "Help us understand your resource allocation",
+    "region": "Region",
+    "step2Title": "What business pain points trouble you most?",
+    "step2Desc": "Select multiple to help us pinpoint",
+    "step3Title": "Leave Your Contact Info",
+    "step3Desc": "We'll deliver the diagnosis report within 2 business days",
+    "prev": "Previous",
+    "next": "Next",
+    "form": {
+      "companyName": "Company Name",
+      "companyNamePlaceholder": "Enter company name",
+      "contactName": "Contact Name",
+      "contactNamePlaceholder": "Your name",
+      "contactEmail": "Email",
+      "contactEmailPlaceholder": "your@email.com",
+      "phone": "Phone",
+      "phoneOptional": "Phone (optional)",
+      "phonePlaceholder": "+86 138-0000-0000",
+      "industry": "Industry",
+      "employees": "Company Size",
+      "scenario": "Business Scenario for AI",
+      "scenarioPlaceholder": "Briefly describe your current business pain points and expectations...",
+      "submit": "Submit Diagnosis Request",
+      "submitting": "Sending...",
+      "success": "Submitted successfully! We'll contact you within 2 business days."
+    },
+    "industries": [
+      { "name": "Law Firm / Legal Services", "sub": "Law Firm · Legal", "icon": "gavel", "color": "#62aef0" },
+      { "name": "Manufacturing", "sub": "Production · Manufacturing", "icon": "precision_manufacturing", "color": "#dd5b00" },
+      { "name": "Fund / Asset Management", "sub": "Fund · Asset Mgmt", "icon": "trending_up", "color": "#2a9d99" },
+      { "name": "Banking / Insurance / Finance", "sub": "Banking · Insurance · Finance", "icon": "account_balance", "color": "#213183" },
+      { "name": "Pharma / Medical Devices / Healthcare", "sub": "Pharma · Devices · Healthcare", "icon": "medical_services", "color": "#ff64c8" },
+      { "name": "Retail / E-commerce", "sub": "Retail · E-commerce", "icon": "shopping_cart", "color": "#62aef0" },
+      { "name": "Logistics / Supply Chain", "sub": "Logistics · Supply Chain", "icon": "local_shipping", "color": "#dd5b00" },
+      { "name": "Other (specify)", "sub": "Other", "icon": "more_horiz", "color": "#8b919e" }
+    ],
+    "companySizes": ["1-10 people", "11-50 people", "51-200 people", "201-500 people", "501-1000 people", "1000+ people"],
+    "regions": ["Mainland China", "Hong Kong / Macau / Taiwan", "Japan", "Southeast Asia", "North America", "Europe", "Other"],
+    "painPoints": [
+      "Data scattered across spreadsheets/chat/email, hard to unify",
+      "Legacy internal systems, difficult to maintain",
+      "Manual business processes, low efficiency",
+      "Customer inquiry / after-sales support can't keep up",
+      "Want to use AI but don't know where to start"
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 16, 2026",
+    "sections": [
+      {"title": "I. Information We Collect", "content": "When you fill out the AI diagnosis questionnaire or contact us, we may collect information you voluntarily provide, including: contact information (name, company name, position, phone number, email); business information (industry, company size, workflow pain points, existing systems and tools, budget and timeline); and other content you voluntarily provide in supplementary notes."},
+      {"title": "II. Use of Information", "content": "We use your information only for: FDE team to contact you and provide AI diagnosis recommendations and solutions; improving our services and products; and when required by law or with your separate authorization. We will not use your personal information for purposes unrelated to the above."},
+      {"title": "III. Information Storage and Security", "content": "Data is transmitted via HTTPS encryption; information is stored in access-controlled server databases accessible only by authorized personnel; we employ reasonable technical and administrative measures to prevent unauthorized access, disclosure, or tampering."},
+      {"title": "IV. Information Sharing and Disclosure", "content": "We will not sell, rent, or share your personal information with third parties except: with your explicit prior consent; when necessary to fulfill the service you request, with the recipient bound by confidentiality obligations; or as required by laws, regulations, or legitimate requests from regulatory or judicial authorities."},
+      {"title": "V. Cookies and Similar Technologies", "content": "This website only uses cookies for necessary scenarios such as admin login and language preferences to maintain session and settings state, not for cross-site advertising tracking."},
+      {"title": "VI. Your Rights", "content": "You have the right to access, correct, or delete your submitted personal information. To exercise these rights, please contact us via the email below. We will process your request within a reasonable period."},
+      {"title": "VII. Contact Us", "content": "If you have any questions about this privacy policy, please contact: sales@dahu.ai"},
+      {"title": "VIII. Policy Updates", "content": "We may update this policy from time to time. Updates will be posted on this page with the last updated date. Material changes will be notified through appropriate means."}
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 16, 2026",
+    "sections": [
+      {"title": "I. Service Description", "content": "We provide enterprise AI deployment consulting and delivery services, including but not limited to AI diagnosis, system refactoring and development, and Agent Collaboration Platform. The \"Free AI Diagnosis\" on this website is for understanding requirements before formal cooperation and does not constitute any form of service commitment or contract."},
+      {"title": "II. Usage Guidelines", "content": "You agree to: use this website for lawful and legitimate purposes; submit true, accurate, and complete information; and not engage in any conduct that compromises website security, interferes with normal operations, or infringes upon the legal rights of others."},
+      {"title": "III. Intellectual Property", "content": "The intellectual property rights of all content on this website, including text, graphics, logos, interface design, and code, belong to Dahu. No one may reproduce, use, or distribute them without written permission."},
+      {"title": "IV. Disclaimer", "content": "The information on this website is for reference only. To the extent permitted by law, we shall not be liable for any indirect, incidental, or consequential damages arising from the use or inability to use this website and its services."},
+      {"title": "V. Limitation of Liability", "content": "To the maximum extent permitted by applicable law, our liability for this website and services shall be limited to the fees you actually paid for the relevant services. For free content and services, we assume no liability for damages."},
+      {"title": "VI. Governing Law", "content": "The establishment, interpretation, and dispute resolution of these terms shall be governed by the laws of the People's Republic of China. Any disputes shall be resolved through friendly negotiation; if negotiation fails, the dispute shall be submitted to the competent people's court in our jurisdiction."},
+      {"title": "VII. Contact Information", "content": "If you have any questions about these terms, please contact: sales@dahu.ai"},
+      {"title": "VIII. Terms Updates", "content": "We reserve the right to revise these terms at any time. Updated terms will take effect immediately upon posting on this page. Please check periodically."}
+    ]
+  },
+  "language": {
+    "zh": "Chinese",
+    "en": "English",
+    "ja": "Japanese",
+    "switchTo": "Switch Language"
+  }
+}

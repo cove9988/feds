@@ -1,0 +1,369 @@
+{
+  "site": {
+    "title": "Dahu · 企业级 AI 落地服务",
+    "description": "Dahu 派 FDE 驻场，把 AI 真正长进你的业务流程——精准诊断、闭环优化，大幅节省企业成本、赢得竞争。提供企业级 AI 操作系统、智能体协同平台、系统重构与从 0 到 1 开发。免费 AI 诊断从这里开始。",
+    "brand": "Dahu",
+    "keywords": "Dahu,企业级 AI 落地,AI Native,企业 AI 操作系统,智能体协同平台,FDE,Forward Deployed Engineer,免费 AI 诊断,AI 转型,大模型应用,AI Agent,系统重构,AI 工作流,降本增效"
+  },
+  "nav": {
+    "home": "首页",
+    "backToHome": "返回首页",
+    "diagnosis": "免费 AI 诊断",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "coreValue": "核心价值",
+    "aiOs": "AI 操作系统",
+    "services": "服务",
+    "cases": "案例",
+    "team": "团队",
+    "process": "流程"
+  },
+  "footer": {
+    "description": "企业级 AI 落地服务。派 FDE 驻场，把 AI 长进你的业务流程，大幅节省成本、赢得竞争。",
+    "products": "产品与服务",
+    "aiOs": "企业 AI 操作系统",
+    "servicesLink": "服务内容",
+    "industries": "服务行业",
+    "casesLink": "交付案例",
+    "fde": "FDE 流程",
+    "company": "公司",
+    "diagnosisLink": "免费 AI 诊断",
+    "contact": "联系我们",
+    "joinUs": "加入我们",
+    "legal": "法律与隐私",
+    "privacyLink": "隐私政策",
+    "termsLink": "服务条款",
+    "offices": "办公室",
+    "cities": ["奥克兰 新西兰", "悉尼 澳洲", "香港 中国", "东京 日本"],
+    "copyright": "© 2026 Dahu · AI-Native Precision · 保留所有权利",
+    "icp": "dahu-2026"
+  },
+  "home": {
+    "hero": {
+      "title": "企业级 AI 落地服务",
+      "subtitle": "免费 AI 诊断",
+      "badge": "企业级 AI 落地服务",
+      "heading": "让 AI 真正<highlight>长进</highlight>你的业务流程",
+      "description": "超越通用的对话助手。我们派 FDE 驻场，构建深度整合的 AI 原生系统——精准诊断、闭环优化，大幅节省企业成本、放大人效，让 AI 成为你赢得竞争的核心资产。",
+      "cta": "查看我们怎么做"
+    },
+    "stats": {
+      "costReduction": "技术投入降低",
+      "costDesc": "AI Native 模式替代自建团队",
+      "softwareSavings": "软件成本节省",
+      "softwareDesc": "定制系统替代 SaaS 订阅",
+      "timeReduction": "人工统计时间减少",
+      "timeDesc": "内部管理系统自动化",
+      "decisionSpeed": "管理决策速度提升",
+      "decisionDesc": "从月报到实时看板",
+      "fastestLaunchValue": "2 天",
+      "fastestLaunchLabel": "最快上线",
+      "fastestLaunchDesc": "AI 加持的交付效率",
+      "fastestResponseValue": "20 分钟",
+      "fastestResponseLabel": "最快响应需求",
+      "fastestResponseDesc": "全年陪跑持续迭代"
+    },
+    "efficiency": {
+      "responseTime": "20 分钟",
+      "responseLabel": "最快响应需求",
+      "supportLabel": "全年陪跑持续迭代",
+      "point1": "拒绝表层集成。把 AI 与你的核心业务逻辑深度耦合，实现真正的生产力飞跃。",
+      "point2": "多层验证与 RAG 技术，确保每个结论都有据可依，满足工业级稳定性。",
+      "point3": "系统内置自我优化机制。随业务运行不断学习领域知识，越用越聪明。"
+    },
+    "whyNative": {
+      "title": "为什么选择原生 AI 架构？",
+      "subtitle": "传统的「补丁式」AI 无法解决结构化效率问题。只有从底层重新设计的业务流，才能彻底释放机器潜能。",
+      "tag": "重构，而非改良",
+      "description": "我们深入每个业务触点，重新梳理数据流向，构建符合 AI 思维逻辑的新一代业务闭环。",
+      "items": [
+        "散落的表格",
+        "微信/群聊",
+        "AI 重构",
+        "实时业务看板",
+        "智能体协同",
+        "可决策数据",
+        "自动化流程",
+        "毫秒级响应"
+      ],
+      "complianceTitle": "私有化合规",
+      "globalEdge": "全球边缘部署，确保 AI 逻辑在离用户最近处执行，体验流畅如本地应用。",
+      "compliance": "私有化合规支持私有云部署与关键数据脱敏，确保核心知识资产永不出境，完全可控。"
+    },
+    "product": {
+      "title": "企业级 AI 操作系统",
+      "subtitle": "一套让全公司与 AI 协同作战的底座",
+      "description": "智能体协同平台（Agent Collaboration Platform）—— 可私有化部署、高度可定制。把重复劳动交给智能体，让每个关键岗位都有专属 AI 加持，在提升效率的同时，节省大量人力。",
+      "features": {
+        "privateDeploy": "私有化部署",
+        "privateDeployDesc": "数据与流程完全在企业内部掌控，核心资产不出境。",
+        "seamlessIntegration": "无缝对接现有系统",
+        "seamlessIntegrationDesc": "把 AI 能力融进你日常在跑的工作流，而非另起炉灶。",
+        "aiCollaboration": "全员 AI 协同",
+        "aiCollaborationDesc": "不是让少数人用 AI，而是每位成员都与 AI 协同作战。",
+        "scalable": "可扩展架构",
+        "scalableDesc": "随业务增长持续构建专属智能体，越用越强。"
+      },
+      "cta": "看看它能为你做什么",
+      "agents": {
+        "title": "智能体协同 · Agents",
+        "subtitle": "全员 AI 协作",
+        "osTitle": "Dahu · 企业 AI 操作系统",
+        "online": "在线",
+        "statusRunning": "运行中",
+        "statusStandby": "待命",
+        "salesInquiry": "销售询盘 Agent",
+        "contractQuote": "合同/报价 Agent",
+        "knowledgeBase": "知识库检索 Agent",
+        "approvalFlow": "审批流 Agent"
+      }
+    },
+    "services": {
+      "title": "我们能为你做什么",
+      "subtitle": "从升级老系统到搭建专属 AI 操作系统，按你的阶段接入",
+      "legacyUpgrade": {
+        "title": "老旧系统平滑升级重构",
+        "description": "系统技术老化、原团队失联？我们接手重构，不中断现有业务。",
+        "points": [
+          "评估现状，制定最优迁移路径",
+          "平滑切换，现有业务零感知",
+          "重构后系统可 AI 自维护、持续演进"
+        ]
+      },
+      "newSystem": {
+        "title": "从 0 到 1 构建新系统",
+        "description": "什么都没有？从第一行代码起，交付一套面向 AI、面向未来的系统。",
+        "points": [
+          "需求梳理与架构设计全程介入",
+          "全栈交付，覆盖前后端与上线",
+          "交付即具备 AI 自演进能力"
+        ]
+      },
+      "fdeConsulting": {
+        "title": "FDE 咨询 · AI 落地规划",
+        "description": "知道 AI 很强，却不知从哪切入？一周深度诊断，给出完整升级方案。",
+        "points": [
+          "深入了解业务流程与系统现状",
+          "输出 AI 升级与产品构建路线图",
+          "可自行落地或由我们承接"
+        ]
+      },
+      "agentPlatform": {
+        "title": "智能体协同平台",
+        "description": "为已有研发团队的企业提供，一套可私有化、高度可定制的智能体协同底座。",
+        "points": [
+          "私有化部署，流程完全可控"
+        ]
+      }
+    },
+    "entryPoints": {
+      "title": "三类企业最常见的切入点，落地即见效",
+      "cards": [
+        { "title": "数字化门面升级", "description": "对外形象、询盘入口与线上转化的完整重建——让客户第一眼就信任你。", "icon": "storefront", "iconBg": "#62aef01f", "iconColor": "#62aef0", "tags": ["官网/多语言重做", "跨境商城与支付", "SEO 与询盘路径", "落地页/小程序"] },
+        { "title": "内部系统与数据打通", "description": "从散落在表格和群聊里的数据，到可用、可看、可决策的业务系统。", "icon": "dashboard", "iconBg": "#2a9d991f", "iconColor": "#2a9d99", "tags": ["轻量 ERP/财务/审批", "打通数据孤岛", "实时业务看板", "老系统重构"] },
+        { "title": "AI 工作流落地", "description": "把 AI 嵌进日常经营——让重复劳动消失，每个关键岗位都有专属 AI。", "icon": "smart_toy", "iconBg": "#d6b6f61f", "iconColor": "#d6b6f6", "tags": ["智能客服/知识库", "合同/报价批量生成", "AI 销售辅助", "审批流程自动化"] }
+      ]
+    },
+    "coreValues": {
+      "title": "核心价值",
+      "cards": [
+        { "title": "原生智能", "icon": "psychology", "description": "拒绝表层集成。把 AI 与你的核心业务逻辑深度耦合，实现真正的生产力飞跃。" },
+        { "title": "精准可靠", "icon": "verified", "description": "多层验证与 RAG 技术，确保每个结论都有据可依，满足工业级稳定性。" },
+        { "title": "闭环演进", "icon": "hub", "description": "系统内置自我优化机制。随业务运行不断学习领域知识，越用越聪明。" }
+      ]
+    },
+    "industries": {
+      "title": "服务各行各业",
+      "subtitle": "从保险、基金、材料工厂到交易平台、律所——不同行业，同一套 AI 落地方法论",
+      "items": [
+        { "name": "保险", "icon": "shield" },
+        { "name": "合规基金", "icon": "account_balance" },
+        { "name": "材料 / 化工工厂", "icon": "factory" },
+        { "name": "量化交易平台", "icon": "monitoring" },
+        { "name": "律师事务所", "icon": "gavel" },
+        { "name": "医疗健康", "icon": "medical_services" },
+        { "name": "银行与金融服务", "icon": "account_balance" },
+        { "name": "专业服务", "icon": "handshake" }
+      ]
+    },
+    "cases": {
+      "title": "部分交付案例",
+      "subtitle": "官网、内部系统到 AI 工作流——已经在真实业务里跑起来",
+      "scrollHint": "← 左右滑动查看更多 →",
+      "items": [
+        { "badge": "PRODUCT", "title": "InsureGuard", "description": "保险品牌官网，集成保单查询、理赔入口与 AI 智能报价引擎。", "url": "https://insureguard.example.com", "mockupBg": "from-[#0a1628] to-[#1a2a4a]", "mockupContent": { "type": "brand", "sub": "INSURANCE · PROTECTION", "brand": "InsureGuard", "accent": "保障", "accentColor": "#62aef0", "buttons": ["获取报价", "申请理赔"] } },
+        { "badge": "SERVICE", "title": "Dahu Advisory", "description": "多语言秘书公司服务官网，内建风控、财务做账系统。", "url": "https://6amadvise.com/zh", "mockupBg": "from-[#0c1322] to-[#13203a]", "mockupContent": { "type": "saas", "title": "DAHU ADVISORY", "langs": ["EN", "中", "繁"], "heading": "多语言企业秘书服务", "sub": "风控 · 财务做账 · 合规咨询", "accentColor": "#62aef0", "buttons": ["预约咨询", "服务介绍"] } },
+        { "badge": "PRODUCT", "title": "量化交易平台", "description": "数据获取、回测、实盘交易与策略迭代一体化平台。", "url": "mailto:sales@dahu.ai?subject=我想了解量化交易平台", "mockupContent": { "type": "chart", "bars": [70, 90, 55, 75] } },
+        { "badge": "SERVICE", "title": "AI 咨询", "description": "按小时计费的 AI 战略咨询——工作流审计、机会图谱与路线图规划。", "url": "mailto:sales@dahu.ai?subject=AI 咨询", "mockupBg": "from-[#0f0c29] to-[#302b63]", "mockupContent": { "type": "chat", "messages": 4 } },
+        { "badge": "SERVICE", "title": "战略顾问", "description": "高管级 AI 顾问服务——能力评估、供应商选型与治理框架。", "url": "mailto:sales@dahu.ai?subject=战略顾问咨询", "mockupBg": "from-[#1a1a2e] to-[#16213e]", "mockupContent": { "type": "deck", "slides": 3 } }
+      ]
+    },
+    "team": {
+      "label": "TEAM",
+      "title": "个个都是身经百战的「超级个体」",
+      "description": "我们不是资源外包平台，也不是人员堆砌的大公司。核心团队由三种稀缺背景交叉而成：深耕行业的企业服务老将、亲手构建过 AI 产品的公司 CTO、以及头部大厂走出来的 AI 工程师。懂业务 × 懂产品 × 懂工程，三者缺一，正是市面上大多数 AI 项目失败的根本原因。",
+      "tags": ["复旦大学", "Rice 大学", "亚马逊 AWS", "腾讯云", "阿里巴巴"],
+      "members": [
+        { "name": "资深企业服务行业专家", "role": "行业老将 · 业务架构师", "description": "十余年企业服务与业务系统落地经验，深度服务过制造、零售、金融等行业头部客户。擅长从混沌的业务现状中识别真实痛点，设计真正解决问题的系统路径——懂业务，才知道哪里值得用 AI 改造，哪里改了也没用。", "icon": "business_center", "gradient": "from-[#62aef0] to-[#62aef099]", "tags": ["企业服务", "业务系统设计", "超大型企业平台", "数字化转型"] },
+        { "name": "AI 技术负责人", "role": "硅谷背景 · AI 产品架构师", "description": "硅谷出身的复合型 AI 专家——前 AWS 软件工程师、前腾讯云产品经理，横跨工程与产品两端。美国 Rice 大学数据科学硕士。深耕大模型应用与 AI 智能体研发，擅长把前沿 AI 从零到一落地为可持续运转的企业级系统——不止会用 AI，更懂如何把它嵌进真实业务、持续创造价值。", "icon": "smart_toy", "gradient": "from-[#d6b6f6] to-[#d6b6f699]", "tags": ["硅谷", "大模型应用", "AI Agent", "AWS · 腾讯云"] },
+        { "name": "FDE 专家", "role": "解决方案架构师 · 全栈交付", "description": "复旦大学硕士，来自国内头部科技公司的 AI 基础设施与应用团队，具备大规模模型训练、推理优化与 Agentic 系统工程化的一线实战经验。作为 FDE 驻场，把业务需求拆解为可落地的解决方案架构，并以大厂级工程标准全栈交付——不是玩具 Demo，而是能在生产环境稳定运行的真实产品。", "icon": "terminal", "gradient": "from-[#1aae39] to-[#1aae3999]", "tags": ["FDE 驻场", "解决方案架构", "AI 工程化", "全栈开发"] },
+        { "name": "AI 安全顾问", "role": "阿里安全专家 · 安全项目创始人", "description": "来自阿里巴巴的安全专家、安全项目创始人，深耕 AI 智能体安全与企业级安全实战，是 AI 智能体协作领域的顶级团队核心。我们把「安全」与「好用」放在同等位置：从数据合规、权限边界到 Agent 行为可控，每个 AI 产品落地前都经过安全视角审视，让你放心拥抱 AI。", "icon": "shield", "gradient": "from-[#dd5b00] to-[#dd5b0099]", "tags": ["阿里安全", "安全项目创始人", "AI Agent 安全", "数据合规"] }
+      ]
+    },
+    "process": {
+      "label": "FDE · Forward Deployed Engineer",
+      "title": "把「想用 AI」变成「真正在用 AI」的人",
+      "description": "老板知道痛点，却不知道 AI 怎么用；工程师掌握技术，却难以转化为业务方案。这中间的鸿沟，正是 FDE 存在的意义——既读懂业务逻辑，又驱动 AI 系统落地，把两端打通，才有真正有价值的产出。",
+      "summary": "诊断 → 拆解 → 交付 → 迭代",
+      "steps": [
+        { "number": "01", "title": "诊断", "icon": "stethoscope", "description": "找出当前最影响业务的技术问题与数据现状。" },
+        { "number": "02", "title": "拆解", "icon": "account_tree", "description": "划分必须做 / 可以等 / 暂不做，守住预算边界。" },
+        { "number": "03", "title": "交付", "icon": "deployed_code", "description": "AI 工具加速，快速上线可维护、可扩展的版本。" },
+        { "number": "04", "title": "迭代", "icon": "autorenew", "description": "按真实使用反馈持续升级，系统随业务一起演进。" }
+      ]
+    },
+    "cta": {
+      "title": "准备好开启企业的 AI 原生进化了吗？",
+      "description": "填一份 2–4 分钟的免费诊断，我们将为你提供一份专属的 AI 实施蓝图与切入点分析。",
+      "diagnosis": "开启免费诊断",
+      "contact": "联系我们"
+    }
+  },
+  "diagnosis": {
+    "title": "免费 AI 诊断",
+    "heading": "告诉我们你的业务，看清 AI 能落在哪",
+    "subheading": "预计 2–4 分钟 · 帮你识别企业 AI 化转型的切入点",
+    "backToHome": "返回首页",
+    "stepLabels": ["行业背景", "规模与地区", "业务痛点", "联系信息"],
+    "step0Title": "您的企业属于哪个行业？",
+    "step0Desc": "下一步会据此为你定制流程相关的问题",
+    "step1Title": "公司规模与地区",
+    "step1Desc": "帮助我们了解你的资源配置",
+    "region": "所在地区",
+    "step2Title": "目前最困扰你的业务场景是？",
+    "step2Desc": "可多选，帮助我们精准定位",
+    "step3Title": "留下联系方式",
+    "step3Desc": "我们将在 2 个工作日内为您提供诊断报告",
+    "prev": "上一步",
+    "next": "下一步",
+    "form": {
+      "companyName": "公司名称",
+      "companyNamePlaceholder": "请输入公司名称",
+      "contactName": "联系人",
+      "contactNamePlaceholder": "您的姓名",
+      "contactEmail": "邮箱",
+      "contactEmailPlaceholder": "your@email.com",
+      "phone": "电话",
+      "phoneOptional": "电话（选填）",
+      "phonePlaceholder": "+86 138-0000-0000",
+      "industry": "所属行业",
+      "employees": "公司规模",
+      "scenario": "您希望 AI 解决的业务场景",
+      "scenarioPlaceholder": "请简要描述您当前的业务痛点和期望...",
+      "submit": "提交诊断申请",
+      "submitting": "提交中...",
+      "success": "提交成功！我们将在 2 个工作日内与您联系。"
+    },
+    "industries": [
+      { "name": "律师事务所 / 法律服务", "sub": "律所 · 法律服务", "icon": "gavel", "color": "#62aef0" },
+      { "name": "生产制造业", "sub": "生产 · 制造", "icon": "precision_manufacturing", "color": "#dd5b00" },
+      { "name": "基金 / 资产管理", "sub": "基金 · 资产管理", "icon": "trending_up", "color": "#2a9d99" },
+      { "name": "银行 / 保险 / 金融", "sub": "银行 · 保险 · 金融", "icon": "account_balance", "color": "#213183" },
+      { "name": "制药 / 器械 / 诊疗", "sub": "制药 · 器械 · 诊疗", "icon": "medical_services", "color": "#ff64c8" },
+      { "name": "零售 / 电商", "sub": "零售 · 电商", "icon": "shopping_cart", "color": "#62aef0" },
+      { "name": "物流 / 供应链", "sub": "物流 · 供应链", "icon": "local_shipping", "color": "#dd5b00" },
+      { "name": "其他（填写行业名称）", "sub": "其他", "icon": "more_horiz", "color": "#8b919e" }
+    ],
+    "companySizes": ["1-10 人", "11-50 人", "51-200 人", "201-500 人", "501-1000 人", "1000+ 人"],
+    "regions": ["中国大陆", "港澳台", "日本", "东南亚", "北美", "欧洲", "其他"],
+    "painPoints": [
+      "数据散落在表格/微信/邮件，无法统一查看",
+      "内部系统老旧，维护困难",
+      "业务流程依赖人工，效率低下",
+      "客户询盘/售后服务跟不上",
+      "想用 AI 但不知道从哪入手"
+    ]
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026 年 6 月 16 日",
+    "sections": [
+      {
+        "title": "一、我们收集的信息",
+        "content": "当您填写 AI 诊断问卷或与我们联系时，我们可能收集您主动提供的信息，包括：联系信息：姓名、公司名称、职位、手机号、电子邮箱；业务信息：所在行业、公司规模、工作流程痛点、现有系统与工具、预算与上线时间线等；您在补充说明中主动填写的其他内容。"
+      },
+      {
+        "title": "二、信息的使用",
+        "content": "我们仅在以下范围内使用您的信息：由 FDE 团队与您取得联系，沟通并提供 AI 诊断建议与落地方案；改进我们的服务与产品；在法律法规要求或您另行授权的情形下使用。我们不会将您的个人信息用于与上述目的无关的用途。"
+      },
+      {
+        "title": "三、信息的存储与安全",
+        "content": "数据通过 HTTPS 加密传输；信息存储于受访问控制的服务端数据库，仅授权人员可访问；我们采取合理的技术与管理措施，防止信息被未经授权地访问、泄露或篡改。"
+      },
+      {
+        "title": "四、信息的共享与披露",
+        "content": "除以下情形外，我们不会向第三方出售、出租或共享您的个人信息：事先取得您的明确同意；为完成您请求的服务而必需，且对方受保密义务约束；依据法律法规、监管或司法机关的合法要求。"
+      },
+      {
+        "title": "五、Cookie 与同类技术",
+        "content": "本网站仅在管理后台登录、语言偏好等必要场景使用 Cookie 以维持会话与设置状态，不用于跨站广告追踪。"
+      },
+      {
+        "title": "六、您的权利",
+        "content": "您有权查询、更正或删除您提交的个人信息。如需行使上述权利，请通过下方邮箱与我们联系，我们将在合理期限内处理。"
+      },
+      {
+        "title": "七、联系我们",
+        "content": "如对本隐私政策有任何疑问，请联系：sales@dahu.ai"
+      },
+      {
+        "title": "八、政策更新",
+        "content": "我们可能不时更新本政策。更新后将在本页公布并标注最后更新日期，重大变更会通过适当方式提示。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026 年 6 月 16 日",
+    "sections": [
+      {
+        "title": "一、服务说明",
+        "content": "我们提供企业级 AI 落地相关的咨询与交付服务，包括但不限于 AI 诊断、系统重构与开发、智能体协同平台等。本网站「免费 AI 诊断」用于在正式合作前进行需求了解，不构成任何形式的服务承诺或合同。"
+      },
+      {
+        "title": "二、使用规范",
+        "content": "您承诺：以合法、正当的目的使用本网站；提交真实、准确、完整的信息；不从事任何危害网站安全、干扰正常运营或侵犯他人合法权益的行为。"
+      },
+      {
+        "title": "三、知识产权",
+        "content": "本网站所包含的文字、图形、标识、界面设计、代码等内容的知识产权归 Dahu 所有，未经书面许可，任何人不得擅自复制、使用或传播。"
+      },
+      {
+        "title": "四、免责声明",
+        "content": "本网站所载信息仅供参考。在法律允许的范围内，我们不对因使用或无法使用本网站及服务所导致的任何间接、偶然或后果性损失承担责任。"
+      },
+      {
+        "title": "五、责任限制",
+        "content": "在适用法律允许的最大范围内，我们对本网站及服务的责任以您实际支付的相关费用为限；对于免费提供的内容与服务，我们不承担赔偿责任。"
+      },
+      {
+        "title": "六、适用法律",
+        "content": "本条款的订立、解释与争议解决均适用中华人民共和国法律。如发生争议，双方应友好协商；协商不成的，提交我们所在地有管辖权的人民法院解决。"
+      },
+      {
+        "title": "七、联系方式",
+        "content": "如对本条款有任何疑问，请联系：sales@dahu.ai"
+      },
+      {
+        "title": "八、条款更新",
+        "content": "我们保留随时修订本条款的权利。更新后的条款一经在本页公布即生效，请您定期查阅。"
+      }
+    ]
+  },
+  "language": {
+    "zh": "中文",
+    "en": "English",
+    "ja": "日本語",
+    "switchTo": "切换语言"
+  }
+}
