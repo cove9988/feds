@@ -23,7 +23,7 @@ export default async function CTASection({ locale }: Props) {
             {t('diagnosis')}
           </Link>
           <a
-            href="mailto:sales@dahu.ai"
+            href="mailto:sales@rustyflow.ai"
             className="inline-flex items-center justify-center gap-2 rounded-full px-7 py-3.5 text-[15px] font-semibold transition-all active:scale-[0.97] border border-outline text-on-surface-variant hover:bg-white/[0.03]"
           >
             {t('contact')}

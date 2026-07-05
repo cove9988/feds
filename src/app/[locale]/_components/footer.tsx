@@ -17,7 +17,7 @@ export default async function Footer({ locale, simple }: Props) {
           <span className="flex gap-4">
             <Link href={`/${locale}/privacy`} className="hover:text-primary">{nav('privacy')}</Link>
             <Link href={`/${locale}/terms`} className="hover:text-primary">{nav('terms')}</Link>
-            <a href="mailto:sales@dahu.ai" className="hover:text-primary">{t('contact')}</a>
+            <a href="mailto:sales@rustyflow.ai" className="hover:text-primary">{t('contact')}</a>
           </span>
         </div>
       </footer>
@@ -36,9 +36,9 @@ export default async function Footer({ locale, simple }: Props) {
             <p className="mt-4 max-w-xs text-[14px] leading-relaxed text-on-surface-variant">
               {t('description')}
             </p>
-            <a href="mailto:sales@dahu.ai" className="mt-4 inline-flex items-center gap-1.5 text-[14px] text-primary hover:opacity-80">
+            <a href="mailto:sales@rustyflow.ai" className="mt-4 inline-flex items-center gap-1.5 text-[14px] text-primary hover:opacity-80">
               <span className="material-symbols-outlined text-[18px]">mail</span>
-              sales@dahu.ai
+              sales@rustyflow.ai
             </a>
           </div>
           <div className="md:col-span-2">
@@ -53,8 +53,8 @@ export default async function Footer({ locale, simple }: Props) {
             <h4 className="text-label-sm uppercase tracking-wider text-on-surface-variant/60">{t('company')}</h4>
             <ul className="mt-4 space-y-2.5">
               <li><Link href={`/${locale}/diagnosis`} className="text-[14px] text-on-surface-variant transition-colors hover:text-primary">{t('diagnosisLink')}</Link></li>
-              <li><a href="mailto:sales@dahu.ai" className="text-[14px] text-on-surface-variant transition-colors hover:text-primary">{t('contact')}</a></li>
-              <li><a href="mailto:sales@dahu.ai?subject=加入 Dahu" className="text-[14px] text-on-surface-variant transition-colors hover:text-primary">{t('joinUs')}</a></li>
+              <li><a href="mailto:sales@rustyflow.ai" className="text-[14px] text-on-surface-variant transition-colors hover:text-primary">{t('contact')}</a></li>
+              <li><a href="mailto:sales@rustyflow.ai?subject=加入 Rustyflow" className="text-[14px] text-on-surface-variant transition-colors hover:text-primary">{t('joinUs')}</a></li>
             </ul>
           </div>
           <div className="md:col-span-2">

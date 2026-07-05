@@ -22,7 +22,7 @@ function AdvisoryMockup({ locale }: { locale: string }) {
     <div className="flex h-full flex-col bg-gradient-to-br from-[#0c1322] to-[#13203a]">
       <div className="flex items-center gap-2 border-b border-white/5 px-4 py-2">
         <span className="size-2.5 rounded-full bg-[#62aef0]" />
-        <span className="text-[9px] font-bold tracking-wider text-white/85">DAHU ADVISORY</span>
+        <span className="text-[9px] font-bold tracking-wider text-white/85">RUSTYFLOW ADVISORY</span>
         <div className="ml-auto flex gap-1">
           {['EN', 'CN', 'TC'].map((l) => (
             <span key={l} className="rounded bg-white/10 px-1.5 py-0.5 text-[7px] text-white/70">{l}</span>
@@ -146,7 +146,7 @@ function buildCases(locale: string): Array<{ badge: string; title: string; desc:
     },
     {
       badge: 'SERVICE',
-      title: 'Dahu Advisory',
+      title: 'Rustyflow Advisory',
       desc: isEn ? 'Multilingual corporate secretarial services with built-in risk, accounting systems.' : '多语言秘书公司服务官网，内建风控、财务做账系统。',
       url: 'https://6amadvise.com/zh',
       mockup: <AdvisoryMockup locale={locale} />,
@@ -155,21 +155,21 @@ function buildCases(locale: string): Array<{ badge: string; title: string; desc:
       badge: 'PRODUCT',
       title: isEn ? 'Quant Trading Platform' : '量化交易平台',
       desc: isEn ? 'Data ingestion, backtesting, live trading, strategy iteration.' : '数据获取、回测、实盘交易与策略迭代一体化平台。',
-      url: 'mailto:sales@dahu.ai?subject=' + (isEn ? 'Quant Trading Platform' : '我想了解量化交易平台'),
+      url: 'mailto:sales@rustyflow.ai?subject=' + (isEn ? 'Quant Trading Platform' : '我想了解量化交易平台'),
       mockup: <QuantMockup />,
     },
     {
       badge: 'SERVICE',
       title: isEn ? 'AI Consulting' : 'AI 咨询',
       desc: isEn ? 'Hourly AI strategy consulting — workflow audit, opportunity mapping, roadmap planning.' : '按小时计费的 AI 战略咨询——工作流审计、机会图谱与路线图规划。',
-      url: 'mailto:sales@dahu.ai?subject=' + (isEn ? 'AI Consulting inquiry' : 'AI 咨询'),
+      url: 'mailto:sales@rustyflow.ai?subject=' + (isEn ? 'AI Consulting inquiry' : 'AI 咨询'),
       mockup: <ConsultingMockup />,
     },
     {
       badge: 'SERVICE',
       title: isEn ? 'Strategy Advisory' : '战略顾问',
       desc: isEn ? 'Executive AI advisory sessions — capability assessment, vendor selection, governance.' : '高管级 AI 顾问服务——能力评估、供应商选型与治理框架。',
-      url: 'mailto:sales@dahu.ai?subject=' + (isEn ? 'Strategy Advisory inquiry' : '战略顾问咨询'),
+      url: 'mailto:sales@rustyflow.ai?subject=' + (isEn ? 'Strategy Advisory inquiry' : '战略顾问咨询'),
       mockup: <StrategyMockup />,
     },
   ];

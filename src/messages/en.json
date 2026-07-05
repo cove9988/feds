@@ -1,9 +1,9 @@
 {
   "site": {
-    "title": "Dahu · Enterprise AI Deployment Services",
-    "description": "Dahu deploys FDEs on-site to embed AI into your business workflows—precise diagnosis, closed-loop optimization, dramatically reducing costs and giving you a competitive edge. Enterprise AI OS, Agent Collaboration Platform, system refactoring, and build from 0 to 1. Start with a free AI diagnosis.",
-    "brand": "Dahu",
-    "keywords": "Dahu,AI Native,Enterprise AI OS,Agent Collaboration Platform,FDE,Forward Deployed Engineer,AI diagnosis,AI transformation,LLM applications,AI Agent,system refactoring,AI workflows"
+    "title": "Rustyflow · Enterprise AI Deployment Services",
+    "description": "Rustyflow deploys FDEs on-site to embed AI into your business workflows—precise diagnosis, closed-loop optimization, dramatically reducing costs and giving you a competitive edge. Enterprise AI OS, Agent Collaboration Platform, system refactoring, and build from 0 to 1. Start with a free AI diagnosis.",
+    "brand": "Rustyflow",
+    "keywords": "Rustyflow,AI Native,Enterprise AI OS,Agent Collaboration Platform,FDE,Forward Deployed Engineer,AI diagnosis,AI transformation,LLM applications,AI Agent,system refactoring,AI workflows"
   },
   "nav": {
     "home": "Home",
@@ -35,8 +35,8 @@
     "termsLink": "Terms of Service",
     "offices": "Offices",
     "cities": ["Auckland NZ", "Sydney AU", "Hong Kong CN", "Tokyo JP"],
-    "copyright": "© 2026 Dahu · AI-Native Precision · All Rights Reserved",
-    "icp": "dahu-2026"
+    "copyright": "© 2026 Rustyflow · AI-Native Precision · All Rights Reserved",
+    "icp": "rustyflow-2026"
   },
   "home": {
     "hero": {
@@ -108,7 +108,7 @@
       "agents": {
         "title": "Agents · AI Collaboration",
         "subtitle": "Company-wide AI Collaboration",
-        "osTitle": "Dahu · Enterprise AI OS",
+        "osTitle": "Rustyflow · Enterprise AI OS",
         "online": "Online",
         "statusRunning": "Running",
         "statusStandby": "Standby",
@@ -192,10 +192,10 @@
       "scrollHint": "← Scroll left/right for more →",
       "items": [
         { "badge": "PRODUCT", "title": "InsureGuard", "description": "Insurance brand website with policy lookup, claims portal, and AI quote engine.", "url": "https://insureguard.example.com", "mockupBg": "from-[#0a1628] to-[#1a2a4a]", "mockupContent": { "type": "brand", "sub": "INSURANCE · PROTECTION", "brand": "InsureGuard", "accent": "Protect", "accentColor": "#62aef0", "buttons": ["Get a Quote", "File a Claim"] } },
-        { "badge": "SERVICE", "title": "Dahu Advisory", "description": "Multilingual corporate secretarial services with built-in risk, accounting systems.", "url": "https://6amadvise.com/zh", "mockupBg": "from-[#0c1322] to-[#13203a]", "mockupContent": { "type": "saas", "title": "DAHU ADVISORY", "langs": ["EN", "CN", "TC"], "heading": "Multilingual Secretarial Services", "sub": "Risk · Accounting · Compliance", "accentColor": "#62aef0", "buttons": ["Book Now", "Services"] } },
-        { "badge": "PRODUCT", "title": "Quant Trading Platform", "description": "Data ingestion, backtesting, live trading, strategy iteration.", "url": "mailto:sales@dahu.ai?subject=I want to learn about internal cases", "mockupContent": { "type": "chart", "bars": [70, 90, 55, 75] } },
-        { "badge": "SERVICE", "title": "AI Consulting", "description": "Hourly AI strategy consulting — workflow audit, opportunity mapping, roadmap planning.", "url": "mailto:sales@dahu.ai?subject=AI Consulting inquiry", "mockupBg": "from-[#0f0c29] to-[#302b63]", "mockupContent": { "type": "chat", "messages": 4 } },
-        { "badge": "SERVICE", "title": "Strategy Advisory", "description": "Executive AI advisory sessions — capability assessment, vendor selection, governance.", "url": "mailto:sales@dahu.ai?subject=Strategy Advisory inquiry", "mockupBg": "from-[#1a1a2e] to-[#16213e]", "mockupContent": { "type": "deck", "slides": 3 } }
+        { "badge": "SERVICE", "title": "Rustyflow Advisory", "description": "Multilingual corporate secretarial services with built-in risk, accounting systems.", "url": "https://6amadvise.com/zh", "mockupBg": "from-[#0c1322] to-[#13203a]", "mockupContent": { "type": "saas", "title": "RUSTYFLOW ADVISORY", "langs": ["EN", "CN", "TC"], "heading": "Multilingual Secretarial Services", "sub": "Risk · Accounting · Compliance", "accentColor": "#62aef0", "buttons": ["Book Now", "Services"] } },
+        { "badge": "PRODUCT", "title": "Quant Trading Platform", "description": "Data ingestion, backtesting, live trading, strategy iteration.", "url": "mailto:sales@rustyflow.ai?subject=I want to learn about internal cases", "mockupContent": { "type": "chart", "bars": [70, 90, 55, 75] } },
+        { "badge": "SERVICE", "title": "AI Consulting", "description": "Hourly AI strategy consulting — workflow audit, opportunity mapping, roadmap planning.", "url": "mailto:sales@rustyflow.ai?subject=AI Consulting inquiry", "mockupBg": "from-[#0f0c29] to-[#302b63]", "mockupContent": { "type": "chat", "messages": 4 } },
+        { "badge": "SERVICE", "title": "Strategy Advisory", "description": "Executive AI advisory sessions — capability assessment, vendor selection, governance.", "url": "mailto:sales@rustyflow.ai?subject=Strategy Advisory inquiry", "mockupBg": "from-[#1a1a2e] to-[#16213e]", "mockupContent": { "type": "deck", "slides": 3 } }
       ]
     },
     "team": {
@@ -294,7 +294,7 @@
       {"title": "IV. Information Sharing and Disclosure", "content": "We will not sell, rent, or share your personal information with third parties except: with your explicit prior consent; when necessary to fulfill the service you request, with the recipient bound by confidentiality obligations; or as required by laws, regulations, or legitimate requests from regulatory or judicial authorities."},
       {"title": "V. Cookies and Similar Technologies", "content": "This website only uses cookies for necessary scenarios such as admin login and language preferences to maintain session and settings state, not for cross-site advertising tracking."},
       {"title": "VI. Your Rights", "content": "You have the right to access, correct, or delete your submitted personal information. To exercise these rights, please contact us via the email below. We will process your request within a reasonable period."},
-      {"title": "VII. Contact Us", "content": "If you have any questions about this privacy policy, please contact: sales@dahu.ai"},
+      {"title": "VII. Contact Us", "content": "If you have any questions about this privacy policy, please contact: sales@rustyflow.ai"},
       {"title": "VIII. Policy Updates", "content": "We may update this policy from time to time. Updates will be posted on this page with the last updated date. Material changes will be notified through appropriate means."}
     ]
   },
@@ -308,7 +308,7 @@
       {"title": "IV. Disclaimer", "content": "The information on this website is for reference only. To the extent permitted by law, we shall not be liable for any indirect, incidental, or consequential damages arising from the use or inability to use this website and its services."},
       {"title": "V. Limitation of Liability", "content": "To the maximum extent permitted by applicable law, our liability for this website and services shall be limited to the fees you actually paid for the relevant services. For free content and services, we assume no liability for damages."},
       {"title": "VI. Governing Law", "content": "The establishment, interpretation, and dispute resolution of these terms shall be governed by the laws of New Zealand. Any disputes shall be resolved through friendly negotiation; if negotiation fails, the dispute shall be submitted to the competent people's court in our jurisdiction."},
-      {"title": "VII. Contact Information", "content": "If you have any questions about these terms, please contact: sales@dahu.ai"},
+      {"title": "VII. Contact Information", "content": "If you have any questions about these terms, please contact: sales@rustyflow.ai"},
       {"title": "VIII. Terms Updates", "content": "We reserve the right to revise these terms at any time. Updated terms will take effect immediately upon posting on this page. Please check periodically."}
     ]
   },

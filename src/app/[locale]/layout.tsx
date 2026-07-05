@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       title: t('title'),
       description: t('description'),
       url: 'https://www.6amtech.cn',
-      siteName: brand('brand') + ' · Dahu',
+      siteName: brand('brand') + ' · Rustyflow',
       locale: locale === 'zh' ? 'zh_CN' : locale === 'ja' ? 'ja_JP' : 'en_US',
       type: 'website',
     },

@@ -36,8 +36,8 @@ export default async function RootLayout({ children }: Props) {
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'Organization',
-              name: 'Dahu',
-              url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dahu.ai',
+              name: 'Rustyflow',
+              url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.rustyflow.ai',
               description: 'Enterprise AI deployment services',
               sameAs: [],
             }),

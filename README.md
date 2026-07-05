@@ -1,6 +1,6 @@
-# Dahu — Enterprise AI Landing Site
+# Rustyflow — Enterprise AI Landing Site
 
-Multilingual (zh/en/ja) Next.js 16 landing site for Dahu, an enterprise AI deployment service.
+Multilingual (zh/en/ja) Next.js 16 landing site for Rustyflow, an enterprise AI deployment service.
 
 Built with Next.js 16 App Router, next-intl, Tailwind CSS v4, React 19 Server Components.
 

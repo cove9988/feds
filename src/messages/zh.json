@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Dahu · 企业级 AI 落地服务",
+    "title": "Rustyflow · 企业级 AI 落地服务",
     "description": "Dahu 派 FDE 驻场，把 AI 真正长进你的业务流程——精准诊断、闭环优化，大幅节省企业成本、赢得竞争。提供企业级 AI 操作系统、智能体协同平台、系统重构与从 0 到 1 开发。免费 AI 诊断从这里开始。",
-    "brand": "Dahu",
+    "brand": "Rustyflow",
     "keywords": "Dahu,企业级 AI 落地,AI Native,企业 AI 操作系统,智能体协同平台,FDE,Forward Deployed Engineer,免费 AI 诊断,AI 转型,大模型应用,AI Agent,系统重构,AI 工作流,降本增效"
   },
   "nav": {
@@ -35,8 +35,8 @@
     "termsLink": "服务条款",
     "offices": "办公室",
     "cities": ["奥克兰 新西兰", "悉尼 澳大利亚", "香港 香港特別行政区", "东京 日本"],
-    "copyright": "© 2026 Dahu · AI-Native Precision · 保留所有权利",
-    "icp": "dahu-2026"
+    "copyright": "© 2026 Rustyflow · AI-Native Precision · 保留所有权利",
+    "icp": "rustyflow-2026"
   },
   "home": {
     "hero": {
@@ -108,7 +108,7 @@
       "agents": {
         "title": "智能体协同 · Agents",
         "subtitle": "全员 AI 协作",
-        "osTitle": "Dahu · 企业 AI 操作系统",
+        "osTitle": "Rustyflow · 企业 AI 操作系统",
         "online": "在线",
         "statusRunning": "运行中",
         "statusStandby": "待命",
@@ -192,10 +192,10 @@
       "scrollHint": "← 左右滑动查看更多 →",
       "items": [
         { "badge": "PRODUCT", "title": "InsureGuard", "description": "保险品牌官网，集成保单查询、理赔入口与 AI 智能报价引擎。", "url": "https://insureguard.example.com", "mockupBg": "from-[#0a1628] to-[#1a2a4a]", "mockupContent": { "type": "brand", "sub": "INSURANCE · PROTECTION", "brand": "InsureGuard", "accent": "保障", "accentColor": "#62aef0", "buttons": ["获取报价", "申请理赔"] } },
-        { "badge": "SERVICE", "title": "Dahu Advisory", "description": "多语言秘书公司服务官网，内建风控、财务做账系统。", "url": "https://6amadvise.com/zh", "mockupBg": "from-[#0c1322] to-[#13203a]", "mockupContent": { "type": "saas", "title": "DAHU ADVISORY", "langs": ["EN", "中", "繁"], "heading": "多语言企业秘书服务", "sub": "风控 · 财务做账 · 合规咨询", "accentColor": "#62aef0", "buttons": ["预约咨询", "服务介绍"] } },
-        { "badge": "PRODUCT", "title": "量化交易平台", "description": "数据获取、回测、实盘交易与策略迭代一体化平台。", "url": "mailto:sales@dahu.ai?subject=我想了解量化交易平台", "mockupContent": { "type": "chart", "bars": [70, 90, 55, 75] } },
-        { "badge": "SERVICE", "title": "AI 咨询", "description": "按小时计费的 AI 战略咨询——工作流审计、机会图谱与路线图规划。", "url": "mailto:sales@dahu.ai?subject=AI 咨询", "mockupBg": "from-[#0f0c29] to-[#302b63]", "mockupContent": { "type": "chat", "messages": 4 } },
-        { "badge": "SERVICE", "title": "战略顾问", "description": "高管级 AI 顾问服务——能力评估、供应商选型与治理框架。", "url": "mailto:sales@dahu.ai?subject=战略顾问咨询", "mockupBg": "from-[#1a1a2e] to-[#16213e]", "mockupContent": { "type": "deck", "slides": 3 } }
+        { "badge": "SERVICE", "title": "Rustyflow Advisory", "description": "多语言秘书公司服务官网，内建风控、财务做账系统。", "url": "https://6amadvise.com/zh", "mockupBg": "from-[#0c1322] to-[#13203a]", "mockupContent": { "type": "saas", "title": "RUSTYFLOW ADVISORY", "langs": ["EN", "中", "繁"], "heading": "多语言企业秘书服务", "sub": "风控 · 财务做账 · 合规咨询", "accentColor": "#62aef0", "buttons": ["预约咨询", "服务介绍"] } },
+        { "badge": "PRODUCT", "title": "量化交易平台", "description": "数据获取、回测、实盘交易与策略迭代一体化平台。", "url": "mailto:sales@rustyflow.ai?subject=我想了解量化交易平台", "mockupContent": { "type": "chart", "bars": [70, 90, 55, 75] } },
+        { "badge": "SERVICE", "title": "AI 咨询", "description": "按小时计费的 AI 战略咨询——工作流审计、机会图谱与路线图规划。", "url": "mailto:sales@rustyflow.ai?subject=AI 咨询", "mockupBg": "from-[#0f0c29] to-[#302b63]", "mockupContent": { "type": "chat", "messages": 4 } },
+        { "badge": "SERVICE", "title": "战略顾问", "description": "高管级 AI 顾问服务——能力评估、供应商选型与治理框架。", "url": "mailto:sales@rustyflow.ai?subject=战略顾问咨询", "mockupBg": "from-[#1a1a2e] to-[#16213e]", "mockupContent": { "type": "deck", "slides": 3 } }
       ]
     },
     "team": {
@@ -314,7 +314,7 @@
       },
       {
         "title": "七、联系我们",
-        "content": "如对本隐私政策有任何疑问，请联系：sales@dahu.ai"
+        "content": "如对本隐私政策有任何疑问，请联系：sales@rustyflow.ai"
       },
       {
         "title": "八、政策更新",
@@ -352,7 +352,7 @@
       },
       {
         "title": "七、联系方式",
-        "content": "如对本条款有任何疑问，请联系：sales@dahu.ai"
+        "content": "如对本条款有任何疑问，请联系：sales@rustyflow.ai"
       },
       {
         "title": "八、条款更新",

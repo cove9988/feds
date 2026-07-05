@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dahu.ai';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.rustyflow.ai';
 
 const staticPaths = ['', '/diagnosis', '/privacy', '/terms'];
 
